@@ -1,0 +1,11 @@
+.show_details {
+    background-color:rgb(11, 102, 102);
+    border: beige 1px solid;
+    border-radius: 5px;
+    color: blanchedalmond;
+    display: flex;
+}
+
+.hidden {
+    display: none;
+}
