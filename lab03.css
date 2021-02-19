@@ -1,0 +1,38 @@
+
+
+#A{
+    background-color: rgb(247, 191, 146);
+    padding: 50px;
+    margin: 50px;
+}
+#B{
+    background-color: rgb(145, 3, 3);
+    padding: 50px;
+    margin: 50px;
+}
+#D{
+    background-color: rgb(247, 191, 146);
+    padding: 50px;
+    margin: 50px;
+}
+#C{
+    background-color: rgb(145, 3, 3);
+    padding: 50px;
+    margin: 50px;
+}
+
+#A.select{
+    background-color: rgb(71, 4, 38);
+
+}
+#B.select{
+    background-color: rgb(233, 147, 187);
+}
+#D.select{
+    background-color: rgb(71, 4, 38);
+
+}
+#C.select{
+    background-color: rgb(233, 147, 187);
+}
+
